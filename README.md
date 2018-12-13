@@ -34,9 +34,6 @@ We will give you a call random time (Other than your sleeping hours) to check yo
 Our validators might expect you to run the code in your laptop. If you are not able to run the code, you will get lower points.
 Based on your progress, commitment, and other factors, our validators can give you special credits. 
 
-## 7. Minimum one comment (peer/expert) on your project & 2 like bubbles (Max 15 points)
-Make sure that you have one of your friends checked your project and commented on TACT project page. If you get minimum one comment on your project, you will get max marks. Also, make sure you get minimum 2 likes for your project.
-
 # Team size and total exercises:
 - 1 member     - 75
 - 2-3 members   - 100 (average 35-50)
