@@ -2,23 +2,23 @@
 
 Criteria is below:
 
-## 1. Regular progress (Max 110 points)
-Make regular progress in your Github contribution. Don't dump all the code one time. Even if you have issues in your python files, don't worry about them. Just commit them and then fix them later.
-
-## 2. Genuine Code (no copy paste ) (Max 140 points)
-Don't simply copy and paste the code. If our validators come to know that you copied the code, you will get lower points.
-We randomly copy your code and google them. If we find a match, you will get lower points.
-
-## 3. Run without any errors (Max 100 points)
-Your code should run on Windows/Linux properly without any errors. Also, don't simply focus on a single topic like 50 exercises on String alone. As long as you involve many topics, you will get higher points.
-
-Remember, our goal is to let you "TASTE all flavors of Python Ice Cream". So don't simply stick with one flavor. More diversified areas you explored in Python, more marks you get.
-
-## 4. Talent Accurate Profile & Project update (Max 25 points)
+## 1. Talent Accurate Profile & Project update (Max 25 points)
 Just create your Talent Accurate (we call TACT) profile and update your project over there. The website is still in BETA, so if you face any issues, please let us know.
 
 You can register your account here : http://talentaccurate.com/register
 (If you need any help on this section, our volunteers can help you out)
+
+## 2. Regular progress (Max 110 points)
+Make regular progress in your Github contribution. Don't dump all the code one time. Even if you have issues in your python files, don't worry about them. Just commit them and then fix them later.
+
+## 3. Genuine Code (no copy paste ) (Max 140 points)
+Don't simply copy and paste the code. If our validators come to know that you copied the code, you will get lower points.
+We randomly copy your code and google them. If we find a match, you will get lower points.
+
+## 4. Run without any errors (Max 100 points)
+Your code should run on Windows/Linux properly without any errors. Also, don't simply focus on a single topic like 50 exercises on String alone. As long as you involve many topics, you will get higher points.
+
+Remember, our goal is to let you "TASTE all flavors of Python Ice Cream". So don't simply stick with one flavor. More diversified areas you explored in Python, more marks you get.
 
 ## 5. Code validation on Zoom call (Max 80 points)
 We will give you a call random time (Other than your sleeping hours) to check your progress. Be available on Zoom audio call and be ready to share your screen.
