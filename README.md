@@ -27,6 +27,9 @@ More we have errors, more marks for you. Don't say that you don't have any mista
 ## 5. Talent Accurate Profile & Project update (Max 25 points)
 Just create your Talent Accurate (we call TACT) profile and update your project over there. The website is still in BETA, so if you face any issues, please let us know.
 
+You can register your account here : http://talentaccurate.com/register
+(If you need any help on this section, our volunteers can help you out)
+
 ## 6. Code validation on Zoom call (Max 80 points)
 We will give you a call random time (Other than your sleeping hours) to check your progress. Be available on Zoom audio call and be ready to share your screen.
 
