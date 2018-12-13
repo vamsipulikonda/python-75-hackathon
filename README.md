@@ -27,9 +27,9 @@ Our validators might expect you to run the code in your laptop. If you are not a
 Based on your progress, commitment, and other factors, our validators can give you special credits. 
 
 # Team size and total exercises:
-- 1 member     - 75
-- 2-3 members   - 100 (average 35-50)
-- 4-5 members  - 140 (average 28-35)
+- 1 member     - 75 exercises
+- 2-3 members   - 100 (average 35-50 exercises per candidate)
+- 4-5 members  - 140 (average 28-35 exercises per candidate)
 
 
 # Various Python Topics:
