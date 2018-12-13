@@ -2,7 +2,7 @@
 
 Criteria is below:
 
-## 1. Talent Accurate Profile & Project update (Max 25 points)
+## 1. Talent Accurate Profile & Project update (Max 20 points)
 Just create your Talent Accurate (we call TACT) profile and update your project over there. The website is still in BETA, so if you face any issues, please let us know.
 
 You can register your account here : http://talentaccurate.com/register
