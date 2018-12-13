@@ -22,7 +22,7 @@ You might be encountering errors during this Hackathon. Just create a file calle
   
 Sample: http://bit.ly/error-archive-sample 
 
-More we have errors, more marks for you. Don't say that you don't have any mistakes at all and you are a super code. We know that's a complete lie. Use this video to understand about Error Archive and how to store it?
+More we have errors, more marks for you. Don't say that you don't have any mistakes at all and you are a super code.
 
 ## 5. Talent Accurate Profile & Project update (Max 25 points)
 Just create your Talent Accurate (we call TACT) profile and update your project over there. The website is still in BETA, so if you face any issues, please let us know.
