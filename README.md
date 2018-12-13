@@ -19,6 +19,8 @@ Remember, our goal is to let you "TASTE all flavors of Python Ice Cream". So don
 
 ## 4. Error Archive storage (Max 30 points)
 You might be encountering errors during this Hackathon. Just create a file called error_archive_<username>.txt and store all of your errors you faced.
+  
+Sample: http://bit.ly/error-archive-sample 
 
 More we have errors, more marks for you. Don't say that you don't have any mistakes at all and you are a super code. We know that's a complete lie. Use this video to understand about Error Archive and how to store it?
 
