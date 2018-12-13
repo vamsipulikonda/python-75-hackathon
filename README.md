@@ -13,7 +13,7 @@ As the hackathon goal is to keep 75 python files, just follow the rules. This ha
 
 ## 3. Run without any errors & Code Diversity (Max 100 points)
 Your code should run on Windows/Linux properly without any errors. More errors we get, less points you will get as well.
-Don't simply focus on a single topic like 80 exercises on String alone. As long as you involve many topics, you will get higher points.
+Don't simply focus on a single topic like 50 exercises on String alone. As long as you involve many topics, you will get higher points.
 
 Remember, our goal is to let you "TASTE all flavors of Python Ice Cream". So don't simply stick with one flavor. More diversified areas you explored in Python, more marks you get.
 
