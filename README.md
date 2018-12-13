@@ -9,7 +9,7 @@ Make regular progress in your Github contribution. Don't dump all the code one t
 Don't simply copy and paste the code. If our validators come to know that you copied the code, you will get lower points.
 We randomly copy your code and google them. If we find a match, you will get lower points.
 
-As the hackathon goal is to keep 75 python files, just follow the rules. This hackathon is helping you to learn Python even though you are new to this. You can come with a proper folder structure to keep your files organized. For example for file I/O, you can say the folder name "file_io" and for string related work, you can say string_examples
+As the hackathon goal is to keep 75+ python files, just follow the rules. This hackathon is helping you to learn Python even though you are new to this. You can come with a proper folder structure to keep your files organized. For example for file I/O, you can say the folder name "file_io" and for string related work, you can say string_examples
 
 ## 3. Run without any errors & Code Diversity (Max 100 points)
 Your code should run on Windows/Linux properly without any errors. More errors we get, less points you will get as well.
@@ -36,6 +36,10 @@ Based on your progress, commitment, and other factors, our validators can give y
 ## 7. Minimum one comment (peer/expert) on your project & 2 like bubbles (Max 15 points)
 Make sure that you have one of your friends checked your project and commented on TACT project page. If you get minimum one comment on your project, you will get max marks. Also, make sure you get minimum 2 likes for your project.
 
+# Team size and total exercises:
+- 1 member     - 75
+- 2-3 mebers   - 100 (average 35-50)
+- 4-5 members  - 140 (average 28-35)
 
 
 # Various Python Topics:
