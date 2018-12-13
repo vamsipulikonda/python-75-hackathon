@@ -22,10 +22,10 @@ You might be encountering errors during this Hackathon. Just create a file calle
 
 More we have errors, more marks for you. Don't say that you don't have any mistakes at all and you are a super code. We know that's a complete lie. Use this video to understand about Error Archive and how to store it?
 
-## 5. Talent Accurate Profile & Project update (Max 80 points)
+## 5. Talent Accurate Profile & Project update (Max 25 points)
 Just create your Talent Accurate (we call TACT) profile and update your project over there. The website is still in BETA, so if you face any issues, please let us know.
 
-## 6. Code validation on Zoom call (Max 25 points)
+## 6. Code validation on Zoom call (Max 80 points)
 We will give you a call random time (Other than your sleeping hours) to check your progress. Be available on Zoom audio call and be ready to share your screen.
 
 Our validators might expect you to run the code in your laptop. If you are not able to run the code, you will get lower points.
