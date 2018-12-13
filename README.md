@@ -33,3 +33,8 @@ Based on your progress, commitment, and other factors, our validators can give y
 
 ## 7. Minimum one comment (peer/expert) on your project & 2 like bubbles (Max 15 points)
 Make sure that you have one of your friends checked your project and commented on TACT project page. If you get minimum one comment on your project, you will get max marks. Also, make sure you get minimum 2 likes for your project.
+
+
+## Various Python Topics:
+-- Introduction
+-- Text input and output
