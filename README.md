@@ -2,10 +2,10 @@
 
 Criteria is below:
 
-# 1 : Regular progress, Clean Coding & Clear Documentation
+## 1 : Regular progress, Clean Coding & Clear Documentation
 Make regular progress in your Github contribution. Don't dump all the code one time. Even if you have issues in your python files, don't worry about them. Just commit them and then fix them later.
 
-# 2: Genuine Code (no copy paste ), Clear folder structure
+## 2: Genuine Code (no copy paste ), Clear folder structure
 Don't simply copy and paste the code. If our validators come to know that you copied the code, you will get lower points.
 We randomly copy your code and google them. If we find a match, you will get lower points.
 
