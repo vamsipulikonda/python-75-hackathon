@@ -2,14 +2,12 @@
 
 Criteria is below:
 
-## 1. Regular progress, Clean Coding & Clear Documentation (Max 110 points)
+## 1. Regular progress (Max 110 points)
 Make regular progress in your Github contribution. Don't dump all the code one time. Even if you have issues in your python files, don't worry about them. Just commit them and then fix them later.
 
-## 2. Genuine Code (no copy paste ), Clear folder structure (Max 140 points)
+## 2. Genuine Code (no copy paste ) (Max 140 points)
 Don't simply copy and paste the code. If our validators come to know that you copied the code, you will get lower points.
 We randomly copy your code and google them. If we find a match, you will get lower points.
-
-As the hackathon goal is to keep 75+ python files, just follow the rules. This hackathon is helping you to learn Python even though you are new to this. You can come with a proper folder structure to keep your files organized. For example for file I/O, you can say the folder name "file_io" and for string related work, you can say string_examples
 
 ## 3. Run without any errors & Code Diversity (Max 100 points)
 Your code should run on Windows/Linux properly without any errors. More errors we get, less points you will get as well.
