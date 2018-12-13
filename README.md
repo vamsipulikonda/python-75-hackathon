@@ -9,26 +9,18 @@ Make regular progress in your Github contribution. Don't dump all the code one t
 Don't simply copy and paste the code. If our validators come to know that you copied the code, you will get lower points.
 We randomly copy your code and google them. If we find a match, you will get lower points.
 
-## 3. Run without any errors & Code Diversity (Max 100 points)
-Your code should run on Windows/Linux properly without any errors. More errors we get, less points you will get as well.
-Don't simply focus on a single topic like 50 exercises on String alone. As long as you involve many topics, you will get higher points.
+## 3. Run without any errors (Max 100 points)
+Your code should run on Windows/Linux properly without any errors. Also, don't simply focus on a single topic like 50 exercises on String alone. As long as you involve many topics, you will get higher points.
 
 Remember, our goal is to let you "TASTE all flavors of Python Ice Cream". So don't simply stick with one flavor. More diversified areas you explored in Python, more marks you get.
 
-## 4. Error Archive storage (Max 30 points)
-You might be encountering errors during this Hackathon. Just create a file called error_archive_<username>.txt and store all of your errors you faced.
-  
-Sample: http://bit.ly/error-archive-sample 
-
-More we have errors, more marks for you. Don't say that you don't have any mistakes at all and you are a super code.
-
-## 5. Talent Accurate Profile & Project update (Max 25 points)
+## 4. Talent Accurate Profile & Project update (Max 25 points)
 Just create your Talent Accurate (we call TACT) profile and update your project over there. The website is still in BETA, so if you face any issues, please let us know.
 
 You can register your account here : http://talentaccurate.com/register
 (If you need any help on this section, our volunteers can help you out)
 
-## 6. Code validation on Zoom call (Max 80 points)
+## 5. Code validation on Zoom call (Max 80 points)
 We will give you a call random time (Other than your sleeping hours) to check your progress. Be available on Zoom audio call and be ready to share your screen.
 
 Our validators might expect you to run the code in your laptop. If you are not able to run the code, you will get lower points.
