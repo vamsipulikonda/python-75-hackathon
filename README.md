@@ -16,3 +16,8 @@ Your code should run on Windows/Linux properly without any errors. More errors w
 Don't simply focus on a single topic like 80 exercises on String alone. As long as you involve many topics, you will get higher points.
 
 Remember, our goal is to let you "TASTE all flavors of Python Ice Cream". So don't simply stick with one flavor. More diversified areas you explored in Python, more marks you get.
+
+## 4: Error Archive storage
+You might be encountering errors during this Hackathon. Just create a file called error_archive_<username>.txt and store all of your errors you faced.
+
+More we have errors, more marks for you. Don't say that you don't have any mistakes at all and you are a super code. We know that's a complete lie. Use this video to understand about Error Archive and how to store it?
