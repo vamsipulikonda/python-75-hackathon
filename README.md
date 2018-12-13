@@ -76,13 +76,13 @@ Make sure that you have one of your friends checked your project and commented o
 - Python Debugging
 
 # Python Tutorials:
-- Python Basics Pythonspot https://pythonspot.com/
-- [Learn Python] (https://www.learnpython.org/)
-- [Automate the boring stuff] (https://automatetheboringstuff.com/chapter1/)
-- [Python Basics - Tutorials Point] (https://www.tutorialspoint.com/python/python_basic_syntax.htm)
-- [Python Tutorial for Beginners Part 1 | Python Programming Tutorial | Python Basics] (https://www.youtube.com/watch?v=2uCXIbkbDSE)
-- [Python Beginner Tutorial 1 (For Absolute Beginners)] (https://www.youtube.com/watch?v=cpPG0bKHYKc)
-- [Introduction to Python Programming] (https://pythonprogramming.net/introduction-to-python-programming/)
-- [Python Basics] (https://pythonbasics.org/)
-- [Python Guru] (https://thepythonguru.com/)
-- [Intro to Python] (https://docs.python-guide.org/intro/learning/)
+- Python Basics - Pythonspot - https://pythonspot.com/
+- Learn Python  - https://www.learnpython.org/
+- Automate the boring stuff  - https://automatetheboringstuff.com/chapter1/
+- Python Basics - Tutorials Point  - https://www.tutorialspoint.com/python/python_basic_syntax.htm
+- Python Tutorial for Beginners Part 1 | Python Programming Tutorial | Python Basics  - https://www.youtube.com/watch?v=2uCXIbkbDSE
+- Python Beginner Tutorial 1  - For Absolute Beginners  - https://www.youtube.com/watch?v=cpPG0bKHYKc
+- Introduction to Python Programming  - https://pythonprogramming.net/introduction-to-python-programming/
+- Python Basics  - https://pythonbasics.org/
+- Python Guru  - https://thepythonguru.com/
+- Intro to Python  - https://docs.python-guide.org/intro/learning/
