@@ -76,7 +76,7 @@ Make sure that you have one of your friends checked your project and commented o
 - Python Debugging
 
 # Python Tutorials:
-- Python Basics Pythonspot (https://pythonspot.com/)
+- Python Basics Pythonspot https://pythonspot.com/
 - [Learn Python] (https://www.learnpython.org/)
 - [Automate the boring stuff] (https://automatetheboringstuff.com/chapter1/)
 - [Python Basics - Tutorials Point] (https://www.tutorialspoint.com/python/python_basic_syntax.htm)
