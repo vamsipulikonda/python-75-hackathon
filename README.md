@@ -38,7 +38,7 @@ Make sure that you have one of your friends checked your project and commented o
 
 # Team size and total exercises:
 - 1 member     - 75
-- 2-3 mebers   - 100 (average 35-50)
+- 2-3 members   - 100 (average 35-50)
 - 4-5 members  - 140 (average 28-35)
 
 
