@@ -37,5 +37,6 @@ Make sure that you have one of your friends checked your project and commented o
 
 
 # Various Python Topics:
--- Introduction
--- Text input and output
+- Introduction
+- Text input and output
+
