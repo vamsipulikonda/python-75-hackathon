@@ -39,4 +39,38 @@ Make sure that you have one of your friends checked your project and commented o
 # Various Python Topics:
 - Introduction
 - Text input and output
-
+- String slices
+- Variables
+- Lists
+- If statements
+- Functions
+- Global and Local variables
+- Scope
+- Loops
+- Range
+- Tuples
+- Dictionaries
+- Datatype casting
+- Random numbers
+- Read file
+- Write file
+- Objects and classes
+- Python class
+- Encapsulation
+- Method overloading
+- Inheritance
+- Polymorphism
+- Inner classes
+- Factory method
+- Recursive functions
+- Logging
+- Subprocess
+- Threading
+- Lambda
+- Sets
+- Modules
+- Graphs
+- State Machine
+- Tree
+- Binary numbers
+- Python Debugging
