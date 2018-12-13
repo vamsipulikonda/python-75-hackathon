@@ -35,6 +35,6 @@ Based on your progress, commitment, and other factors, our validators can give y
 Make sure that you have one of your friends checked your project and commented on TACT project page. If you get minimum one comment on your project, you will get max marks. Also, make sure you get minimum 2 likes for your project.
 
 
-## Various Python Topics:
+# Various Python Topics:
 -- Introduction
 -- Text input and output
